@@ -42,9 +42,8 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-<img width="1227" height="739" alt="Screenshot 2025-08-14 152650" src="https://github.com/user-attachments/assets/9584c360-2802-45f1-bdaf-29acdf101d8d" />
 
-<img width="1919" height="1079" alt="Screenshot 2025-08-14 152817" src="https://github.com/user-attachments/assets/4ba104f4-f7d9-43f4-9a75-c50b7e4abb59" />
+<img width="1227" height="739" alt="Screenshot 2025-08-14 152650" src="https://github.com/user-attachments/assets/9584c360-2802-45f1-bdaf-29acdf101d8d" />
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -56,4 +55,7 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+<img width="1919" height="1079" alt="Screenshot 2025-08-14 152817" src="https://github.com/user-attachments/assets/4ba104f4-f7d9-43f4-9a75-c50b7e4abb59" />
+
 ### RESULT: 
+THUS , THE CODE WAS ERRORLESS AND RUNNED SUCCESSFULLY
